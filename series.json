@@ -1,0 +1,3432 @@
+[
+    {
+        "data": [
+            {
+                "y": 22.5,
+                "x": 38.96,
+                "name": "Weymouth & Portland"
+            },
+            {
+                "y": 21.4,
+                "x": 41.89,
+                "name": "Melton"
+            },
+            {
+                "y": 17.3,
+                "x": 51.06,
+                "name": "Hounslow"
+            },
+            {
+                "y": 26.9,
+                "x": 42.58,
+                "name": "Halton"
+            },
+            {
+                "y": 22.7,
+                "x": 46.66,
+                "name": "Mid Devon"
+            },
+            {
+                "y": 18.0,
+                "x": 54.37,
+                "name": "North Hertfordshire"
+            },
+            {
+                "y": 22.7,
+                "x": 43.84,
+                "name": "Solihull"
+            },
+            {
+                "y": 28.1,
+                "x": 38.86,
+                "name": "Tameside"
+            },
+            {
+                "y": 17.4,
+                "x": 51.97,
+                "name": "Wycombe"
+            },
+            {
+                "y": 23.5,
+                "x": 43.63,
+                "name": "Flintshire"
+            },
+            {
+                "y": 27.6,
+                "x": 39.96,
+                "name": "Chesterfield"
+            },
+            {
+                "y": 27.9,
+                "x": 33.12,
+                "name": "North Warwickshire"
+            },
+            {
+                "y": 20.1,
+                "x": 48.97,
+                "name": "West Dorset"
+            },
+            {
+                "y": 24.3,
+                "x": 49.01,
+                "name": "Sheffield"
+            },
+            {
+                "y": 23.6,
+                "x": 50.7,
+                "name": "Newcastle-upon-Tyne"
+            },
+            {
+                "y": 27.5,
+                "x": 42.45,
+                "name": "Durham"
+            },
+            {
+                "y": 19.1,
+                "x": 45.12,
+                "name": "Bournemouth"
+            },
+            {
+                "y": 28.4,
+                "x": 33.81,
+                "name": "Redcar & Cleveland"
+            },
+            {
+                "y": 22.2,
+                "x": 40.53,
+                "name": "Blaby"
+            },
+            {
+                "y": 25.1,
+                "x": 51.87,
+                "name": "Sefton"
+            },
+            {
+                "y": 16.1,
+                "x": 68.62,
+                "name": "Brighton & Hove"
+            },
+            {
+                "y": 21.7,
+                "x": 37.74,
+                "name": "North Kesteven"
+            },
+            {
+                "y": 26.7,
+                "x": 40.96,
+                "name": "Wrexham"
+            },
+            {
+                "y": 29.3,
+                "x": 33.39,
+                "name": "Burnley"
+            },
+            {
+                "y": 11.6,
+                "x": 75.03,
+                "name": "Wandsworth"
+            },
+            {
+                "y": 26.8,
+                "x": 32.53,
+                "name": "Tamworth"
+            },
+            {
+                "y": 23.1,
+                "x": 45.35,
+                "name": "Broxtowe"
+            },
+            {
+                "y": 18.3,
+                "x": 55.28,
+                "name": "Exeter"
+            },
+            {
+                "y": 21.9,
+                "x": 42.75,
+                "name": "South Somerset"
+            },
+            {
+                "y": 20.5,
+                "x": 46.19,
+                "name": "Charnwood"
+            },
+            {
+                "y": 27.4,
+                "x": 37.54,
+                "name": "Swale"
+            },
+            {
+                "y": 22.3,
+                "x": 40.06,
+                "name": "Plymouth"
+            },
+            {
+                "y": 18.5,
+                "x": 53.97,
+                "name": "Redbridge"
+            },
+            {
+                "y": 25.6,
+                "x": 49.16,
+                "name": "Nottingham"
+            },
+            {
+                "y": 20.0,
+                "x": 67.46,
+                "name": "Tower Hamlets"
+            },
+            {
+                "y": 20.6,
+                "x": 55.59,
+                "name": "Greenwich"
+            },
+            {
+                "y": 24.3,
+                "x": 38.05,
+                "name": "Isle of Wight"
+            },
+            {
+                "y": 20.5,
+                "x": 47.08,
+                "name": "Taunton Deane"
+            },
+            {
+                "y": 33.7,
+                "x": 32.14,
+                "name": "Walsall"
+            },
+            {
+                "y": 24.7,
+                "x": 37.75,
+                "name": "Shepway"
+            },
+            {
+                "y": 19.9,
+                "x": 45.5,
+                "name": "Wealden"
+            },
+            {
+                "y": 22.5,
+                "x": 41.62,
+                "name": "Northampton"
+            },
+            {
+                "y": 17.9,
+                "x": 50.65,
+                "name": "Bromley"
+            },
+            {
+                "y": 24.1,
+                "x": 42.78,
+                "name": "Derby"
+            },
+            {
+                "y": 18.1,
+                "x": 49.25,
+                "name": "Harborough"
+            },
+            {
+                "y": 28.0,
+                "x": 37.95,
+                "name": "South Tyneside"
+            },
+            {
+                "y": 13.2,
+                "x": 59.53,
+                "name": "Elmbridge"
+            },
+            {
+                "y": 16.3,
+                "x": 46.06,
+                "name": "Bracknell Forest"
+            },
+            {
+                "y": 12.8,
+                "x": 68.97,
+                "name": "Westminster"
+            },
+            {
+                "y": 21.3,
+                "x": 44.63,
+                "name": "Bromsgrove"
+            },
+            {
+                "y": 10.1,
+                "x": 68.69,
+                "name": "Kensington & Chelsea"
+            },
+            {
+                "y": 35.2,
+                "x": 33.28,
+                "name": "Sandwell"
+            },
+            {
+                "y": 14.7,
+                "x": 55.02,
+                "name": "Chiltern"
+            },
+            {
+                "y": 25.9,
+                "x": 38.77,
+                "name": "Erewash"
+            },
+            {
+                "y": 16.5,
+                "x": 49.3,
+                "name": "South Bucks"
+            },
+            {
+                "y": 27.9,
+                "x": 37.56,
+                "name": "Barking & Dagenham"
+            },
+            {
+                "y": 12.7,
+                "x": 74.94,
+                "name": "Camden"
+            },
+            {
+                "y": 13.2,
+                "x": 56.69,
+                "name": "Wokingham"
+            },
+            {
+                "y": 14.5,
+                "x": 58.93,
+                "name": "Winchester"
+            },
+            {
+                "y": 19.2,
+                "x": 45.76,
+                "name": "Huntingdonshire"
+            },
+            {
+                "y": 27.8,
+                "x": 36.85,
+                "name": "Wyre Forest"
+            },
+            {
+                "y": 17.4,
+                "x": 58.03,
+                "name": "Reading"
+            },
+            {
+                "y": 23.2,
+                "x": 50.31,
+                "name": "Leeds"
+            },
+            {
+                "y": 27.6,
+                "x": 35.75,
+                "name": "Corby"
+            },
+            {
+                "y": 15.2,
+                "x": 58.39,
+                "name": "Waverley"
+            },
+            {
+                "y": 21.0,
+                "x": 49.32,
+                "name": "Cheshire West & Chester"
+            },
+            {
+                "y": 31.2,
+                "x": 37.43,
+                "name": "Wolverhampton"
+            },
+            {
+                "y": 19.6,
+                "x": 43.3,
+                "name": "Rugby"
+            },
+            {
+                "y": 23.2,
+                "x": 42.67,
+                "name": "Eastbourne"
+            },
+            {
+                "y": 24.8,
+                "x": 43.82,
+                "name": "Darlington"
+            },
+            {
+                "y": 24.8,
+                "x": 39.41,
+                "name": "West Somerset"
+            },
+            {
+                "y": 23.4,
+                "x": 39.6,
+                "name": "East Riding of Yorkshire"
+            },
+            {
+                "y": 24.8,
+                "x": 46.26,
+                "name": "Powys"
+            },
+            {
+                "y": 23.8,
+                "x": 44.32,
+                "name": "Calderdale"
+            },
+            {
+                "y": 27.3,
+                "x": 36.1,
+                "name": "Wigan"
+            },
+            {
+                "y": 23.4,
+                "x": 51.7,
+                "name": "Wirral"
+            },
+            {
+                "y": 18.0,
+                "x": 58.04,
+                "name": "York"
+            },
+            {
+                "y": 29.3,
+                "x": 33.6,
+                "name": "King's Lynn & West Norfolk"
+            },
+            {
+                "y": 30.8,
+                "x": 26.41,
+                "name": "South Holland"
+            },
+            {
+                "y": 18.6,
+                "x": 57.69,
+                "name": "Trafford"
+            },
+            {
+                "y": 17.7,
+                "x": 49.32,
+                "name": "Uttlesford"
+            },
+            {
+                "y": 23.1,
+                "x": 37.42,
+                "name": "Maldon"
+            },
+            {
+                "y": 17.4,
+                "x": 45.66,
+                "name": "South Northamptonshire"
+            },
+            {
+                "y": 28.0,
+                "x": 33.99,
+                "name": "Nuneaton & Bedworth"
+            },
+            {
+                "y": 25.4,
+                "x": 46,
+                "name": "Denbighshire"
+            },
+            {
+                "y": 27.7,
+                "x": 45.77,
+                "name": "Bradford"
+            },
+            {
+                "y": 29.8,
+                "x": 32.11,
+                "name": "Rotherham"
+            },
+            {
+                "y": 31.1,
+                "x": 33.64,
+                "name": "Wakefield"
+            },
+            {
+                "y": 25.4,
+                "x": 45.12,
+                "name": "Hastings"
+            },
+            {
+                "y": 25.0,
+                "x": 37.85,
+                "name": "Dover"
+            },
+            {
+                "y": 21.3,
+                "x": 47.01,
+                "name": "Worthing"
+            },
+            {
+                "y": 31.3,
+                "x": 32.54,
+                "name": "Blackpool"
+            },
+            {
+                "y": 22.3,
+                "x": 41.24,
+                "name": "East Northamptonshire"
+            },
+            {
+                "y": 21.4,
+                "x": 51.07,
+                "name": "Mendip"
+            },
+            {
+                "y": 25.7,
+                "x": 35.03,
+                "name": "Forest Heath"
+            },
+            {
+                "y": 25.4,
+                "x": 39.38,
+                "name": "Barrow-in-Furness"
+            },
+            {
+                "y": 28.7,
+                "x": 39.93,
+                "name": "Rochdale"
+            },
+            {
+                "y": 24.4,
+                "x": 39.67,
+                "name": "Hinckley & Bosworth"
+            },
+            {
+                "y": 30.3,
+                "x": 31.04,
+                "name": "Doncaster"
+            },
+            {
+                "y": 16.6,
+                "x": 49.51,
+                "name": "Reigate & Banstead"
+            },
+            {
+                "y": 23.5,
+                "x": 44.69,
+                "name": "West Lancashire"
+            },
+            {
+                "y": 14.2,
+                "x": 78.62,
+                "name": "Lambeth"
+            },
+            {
+                "y": 18.0,
+                "x": 48.59,
+                "name": "Milton Keynes"
+            },
+            {
+                "y": 25.5,
+                "x": 33.74,
+                "name": "Broxbourne"
+            },
+            {
+                "y": 28.0,
+                "x": 33.81,
+                "name": "Hyndburn"
+            },
+            {
+                "y": 22.7,
+                "x": 46.68,
+                "name": "Eden"
+            },
+            {
+                "y": 17.2,
+                "x": 57.85,
+                "name": "Bath & North East Somerset"
+            },
+            {
+                "y": 19.6,
+                "x": 46.34,
+                "name": "Hambleton"
+            },
+            {
+                "y": 31.4,
+                "x": 30.16,
+                "name": "Ashfield"
+            },
+            {
+                "y": 28.2,
+                "x": 49.58,
+                "name": "Birmingham"
+            },
+            {
+                "y": 25.7,
+                "x": 37.58,
+                "name": "Wellingborough"
+            },
+            {
+                "y": 19.6,
+                "x": 47.83,
+                "name": "North Somerset"
+            },
+            {
+                "y": 19.6,
+                "x": 78.48,
+                "name": "Hackney"
+            },
+            {
+                "y": 20.7,
+                "x": 45.73,
+                "name": "Warrington"
+            },
+            {
+                "y": 23.1,
+                "x": 60.36,
+                "name": "Manchester"
+            },
+            {
+                "y": 21.2,
+                "x": 40.57,
+                "name": "Ashford"
+            },
+            {
+                "y": 20.3,
+                "x": 41.44,
+                "name": "South Ribble"
+            },
+            {
+                "y": 30.7,
+                "x": 30.43,
+                "name": "Hartlepool"
+            },
+            {
+                "y": 28.7,
+                "x": 43.66,
+                "name": "Blackburn with Darwen"
+            },
+            {
+                "y": 21.0,
+                "x": 46.2,
+                "name": "Southampton"
+            },
+            {
+                "y": 23.7,
+                "x": 46.6,
+                "name": "North Tyneside"
+            },
+            {
+                "y": 15.6,
+                "x": 53.9,
+                "name": "Windsor & Maidenhead Royal"
+            },
+            {
+                "y": 27.9,
+                "x": 41.98,
+                "name": "St Helens"
+            },
+            {
+                "y": 13.6,
+                "x": 70.27,
+                "name": "Oxford"
+            },
+            {
+                "y": 23.9,
+                "x": 44.4,
+                "name": "Coventry"
+            },
+            {
+                "y": 22.3,
+                "x": 44.77,
+                "name": "Mid Suffolk"
+            },
+            {
+                "y": 16.7,
+                "x": 56.7,
+                "name": "Vale of White Horse"
+            },
+            {
+                "y": 25.4,
+                "x": 39.17,
+                "name": "Torridge"
+            },
+            {
+                "y": 16.5,
+                "x": 54.98,
+                "name": "South Oxfordshire"
+            },
+            {
+                "y": 18.6,
+                "x": 43.22,
+                "name": "Richmondshire"
+            },
+            {
+                "y": 24.4,
+                "x": 34.62,
+                "name": "Gravesham"
+            },
+            {
+                "y": 20.0,
+                "x": 44.3,
+                "name": "Tonbridge & Malling"
+            },
+            {
+                "y": 24.9,
+                "x": 37.52,
+                "name": "Arun"
+            },
+            {
+                "y": 23.6,
+                "x": 43.45,
+                "name": "Luton"
+            },
+            {
+                "y": 27.1,
+                "x": 43.19,
+                "name": "Salford"
+            },
+            {
+                "y": 21.2,
+                "x": 41.92,
+                "name": "Portsmouth"
+            },
+            {
+                "y": 11.9,
+                "x": 73.85,
+                "name": "Cambridge"
+            },
+            {
+                "y": 22.6,
+                "x": 48.31,
+                "name": "South Norfolk"
+            },
+            {
+                "y": 20.5,
+                "x": 50.73,
+                "name": "Vale of Glamorgan"
+            },
+            {
+                "y": 27.0,
+                "x": 38,
+                "name": "Copeland"
+            },
+            {
+                "y": 23.0,
+                "x": 37.05,
+                "name": "Bexley"
+            },
+            {
+                "y": 21.3,
+                "x": 46.32,
+                "name": "Worcester"
+            },
+            {
+                "y": 26.4,
+                "x": 30.34,
+                "name": "Havering"
+            },
+            {
+                "y": 24.6,
+                "x": 41.92,
+                "name": "Southend-on-Sea"
+            },
+            {
+                "y": 25.1,
+                "x": 38.8,
+                "name": "Sedgemoor"
+            },
+            {
+                "y": 16.4,
+                "x": 57.55,
+                "name": "Rushcliffe"
+            },
+            {
+                "y": 24.0,
+                "x": 39.32,
+                "name": "Rossendale"
+            },
+            {
+                "y": 22.9,
+                "x": 35.92,
+                "name": "Medway"
+            },
+            {
+                "y": 20.0,
+                "x": 43.6,
+                "name": "North Dorset"
+            },
+            {
+                "y": 18.3,
+                "x": 43.61,
+                "name": "Ribble Valley"
+            },
+            {
+                "y": 26.0,
+                "x": 39.3,
+                "name": "North West Leicestershire"
+            },
+            {
+                "y": 16.3,
+                "x": 51.46,
+                "name": "Horsham"
+            },
+            {
+                "y": 25.0,
+                "x": 39.11,
+                "name": "Peterborough"
+            },
+            {
+                "y": 12.8,
+                "x": 70.02,
+                "name": "Hammersmith & Fulham"
+            },
+            {
+                "y": 23.4,
+                "x": 41.17,
+                "name": "Christchurch"
+            },
+            {
+                "y": 21.2,
+                "x": 43.04,
+                "name": "Fylde"
+            },
+            {
+                "y": 28.9,
+                "x": 40.22,
+                "name": "Torfaen"
+            },
+            {
+                "y": 32.3,
+                "x": 31.69,
+                "name": "Barnsley"
+            },
+            {
+                "y": 19.7,
+                "x": 49.69,
+                "name": "Cherwell"
+            },
+            {
+                "y": 26.0,
+                "x": 31.9,
+                "name": "Harlow"
+            },
+            {
+                "y": 18.8,
+                "x": 49.33,
+                "name": "Dacorum"
+            },
+            {
+                "y": 23.6,
+                "x": 33.39,
+                "name": "Rochford"
+            },
+            {
+                "y": 21.1,
+                "x": 35.78,
+                "name": "Dartford"
+            },
+            {
+                "y": 24.6,
+                "x": 36.78,
+                "name": "Telford & Wrekin"
+            },
+            {
+                "y": 18.9,
+                "x": 52.86,
+                "name": "South Lakeland"
+            },
+            {
+                "y": 17.1,
+                "x": 47.16,
+                "name": "Tandridge"
+            },
+            {
+                "y": 19.3,
+                "x": 48.44,
+                "name": "Stratford-on-Avon"
+            },
+            {
+                "y": 20.5,
+                "x": 48.96,
+                "name": "Canterbury"
+            },
+            {
+                "y": 17.6,
+                "x": 44.9,
+                "name": "Fareham"
+            },
+            {
+                "y": 21.2,
+                "x": 40.83,
+                "name": "Selby"
+            },
+            {
+                "y": 17.3,
+                "x": 50.97,
+                "name": "Harrogate"
+            },
+            {
+                "y": 24.0,
+                "x": 44.74,
+                "name": "Ryedale"
+            },
+            {
+                "y": 17.6,
+                "x": 53.66,
+                "name": "West Oxfordshire"
+            },
+            {
+                "y": 29.6,
+                "x": 39.14,
+                "name": "Oldham"
+            },
+            {
+                "y": 22.8,
+                "x": 38.87,
+                "name": "Braintree"
+            },
+            {
+                "y": 21.2,
+                "x": 43.17,
+                "name": "Chorley"
+            },
+            {
+                "y": 24.2,
+                "x": 49.06,
+                "name": "Anglesey"
+            },
+            {
+                "y": 19.4,
+                "x": 46.4,
+                "name": "Colchester"
+            },
+            {
+                "y": 6.7,
+                "x": 75.29,
+                "name": "City of London"
+            },
+            {
+                "y": 17.1,
+                "x": 54.89,
+                "name": "Tunbridge Wells"
+            },
+            {
+                "y": 34.3,
+                "x": 43.56,
+                "name": "Merthyr Tydfil"
+            },
+            {
+                "y": 16.5,
+                "x": 60.4,
+                "name": "Ealing"
+            },
+            {
+                "y": 27.0,
+                "x": 41.35,
+                "name": "Allerdale"
+            },
+            {
+                "y": 20.5,
+                "x": 45.34,
+                "name": "Swindon"
+            },
+            {
+                "y": 25.8,
+                "x": 36.84,
+                "name": "Torbay"
+            },
+            {
+                "y": 36.0,
+                "x": 37.97,
+                "name": "Blaenau Gwent"
+            },
+            {
+                "y": 18.4,
+                "x": 48.06,
+                "name": "Test Valley"
+            },
+            {
+                "y": 18.9,
+                "x": 47.17,
+                "name": "Chelmsford"
+            },
+            {
+                "y": 22.1,
+                "x": 42.14,
+                "name": "Wychavon"
+            },
+            {
+                "y": 29.9,
+                "x": 34.52,
+                "name": "Middlesbrough"
+            },
+            {
+                "y": 17.2,
+                "x": 51.78,
+                "name": "West Berkshire"
+            },
+            {
+                "y": 23.0,
+                "x": 38.18,
+                "name": "West Lindsey"
+            },
+            {
+                "y": 17.0,
+                "x": 75.22,
+                "name": "Islington"
+            },
+            {
+                "y": 19.6,
+                "x": 48.82,
+                "name": "Cheshire East"
+            },
+            {
+                "y": 21.4,
+                "x": 41.83,
+                "name": "Poole"
+            },
+            {
+                "y": 22.8,
+                "x": 39.01,
+                "name": "Kettering"
+            },
+            {
+                "y": 20.7,
+                "x": 60.02,
+                "name": "Cardiff"
+            },
+            {
+                "y": 27.0,
+                "x": 39.72,
+                "name": "Amber Valley"
+            },
+            {
+                "y": 17.6,
+                "x": 54.29,
+                "name": "Croydon"
+            },
+            {
+                "y": 20.6,
+                "x": 52.84,
+                "name": "Newham"
+            },
+            {
+                "y": 28.3,
+                "x": 45.36,
+                "name": "Bridgend"
+            },
+            {
+                "y": 19.4,
+                "x": 43.87,
+                "name": "Central Bedfordshire"
+            },
+            {
+                "y": 29.5,
+                "x": 30.13,
+                "name": "North East Lincolnshire"
+            },
+            {
+                "y": 25.9,
+                "x": 36.23,
+                "name": "Wyre"
+            },
+            {
+                "y": 22.6,
+                "x": 45.42,
+                "name": "Oadby & Wigston"
+            },
+            {
+                "y": 32.8,
+                "x": 28.5,
+                "name": "Great Yarmouth"
+            },
+            {
+                "y": 24.0,
+                "x": 35.15,
+                "name": "South Staffordshire"
+            },
+            {
+                "y": 16.6,
+                "x": 56.17,
+                "name": "Cheltenham"
+            },
+            {
+                "y": 26.8,
+                "x": 36.96,
+                "name": "Newcastle-under-Lyme"
+            },
+            {
+                "y": 17.3,
+                "x": 48.1,
+                "name": "Basingstoke & Deane"
+            },
+            {
+                "y": 32.7,
+                "x": 24.44,
+                "name": "Boston"
+            },
+            {
+                "y": 21.8,
+                "x": 41.5,
+                "name": "Gloucester"
+            },
+            {
+                "y": 22.4,
+                "x": 43.48,
+                "name": "Cornwall"
+            },
+            {
+                "y": 18.6,
+                "x": 41.79,
+                "name": "Rushmoor"
+            },
+            {
+                "y": 21.1,
+                "x": 42.24,
+                "name": "New Forest"
+            },
+            {
+                "y": 20.4,
+                "x": 44.01,
+                "name": "Stafford"
+            },
+            {
+                "y": 32.9,
+                "x": 29.17,
+                "name": "Bolsover"
+            },
+            {
+                "y": 14.8,
+                "x": 53.09,
+                "name": "Mid Sussex"
+            },
+            {
+                "y": 18.9,
+                "x": 41.4,
+                "name": "Daventry"
+            },
+            {
+                "y": 19.8,
+                "x": 54.63,
+                "name": "Ceredigion"
+            },
+            {
+                "y": 17.6,
+                "x": 48.73,
+                "name": "Three Rivers"
+            },
+            {
+                "y": 13.4,
+                "x": 61.61,
+                "name": "Kingston-upon-Thames"
+            },
+            {
+                "y": 19.1,
+                "x": 43.63,
+                "name": "Hillingdon"
+            },
+            {
+                "y": 25.4,
+                "x": 45.33,
+                "name": "Kirklees"
+            },
+            {
+                "y": 21.6,
+                "x": 40.93,
+                "name": "Purbeck"
+            },
+            {
+                "y": 18.6,
+                "x": 47.32,
+                "name": "South Gloucestershire"
+            },
+            {
+                "y": 22.9,
+                "x": 40.78,
+                "name": "Herefordshire"
+            },
+            {
+                "y": 22.6,
+                "x": 45.88,
+                "name": "Bury"
+            },
+            {
+                "y": 22.6,
+                "x": 56.24,
+                "name": "Norwich"
+            },
+            {
+                "y": 18.2,
+                "x": 54.61,
+                "name": "Stroud"
+            },
+            {
+                "y": 15.0,
+                "x": 49.02,
+                "name": "Surrey Heath"
+            },
+            {
+                "y": 19.4,
+                "x": 40.85,
+                "name": "Brentwood"
+            },
+            {
+                "y": 20.4,
+                "x": 39.7,
+                "name": "Spelthorne"
+            },
+            {
+                "y": 29.9,
+                "x": 27.3,
+                "name": "Castle Point"
+            },
+            {
+                "y": 21.6,
+                "x": 36.14,
+                "name": "Gosport"
+            },
+            {
+                "y": 16.4,
+                "x": 58.78,
+                "name": "Warwick"
+            },
+            {
+                "y": 25.1,
+                "x": 37.71,
+                "name": "Redditch"
+            },
+            {
+                "y": 27.5,
+                "x": 41.09,
+                "name": "North Norfolk"
+            },
+            {
+                "y": 20.3,
+                "x": 47.17,
+                "name": "Craven"
+            },
+            {
+                "y": 24.1,
+                "x": 42.96,
+                "name": "North Devon"
+            },
+            {
+                "y": 23.9,
+                "x": 48.49,
+                "name": "Swansea"
+            },
+            {
+                "y": 28.2,
+                "x": 36.85,
+                "name": "Pendle"
+            },
+            {
+                "y": 30.4,
+                "x": 29.14,
+                "name": "Mansfield"
+            },
+            {
+                "y": 26.3,
+                "x": 41.71,
+                "name": "Bolton"
+            },
+            {
+                "y": 21.5,
+                "x": 48.44,
+                "name": "Derbyshire Dales"
+            },
+            {
+                "y": 15.8,
+                "x": 52.08,
+                "name": "Epsom & Ewell"
+            },
+            {
+                "y": 20.7,
+                "x": 50.44,
+                "name": "Monmouthshire"
+            },
+            {
+                "y": 31.8,
+                "x": 46.3,
+                "name": "Rhondda Cynon Taf"
+            },
+            {
+                "y": 24.0,
+                "x": 37.31,
+                "name": "Epping Forest"
+            },
+            {
+                "y": 13.5,
+                "x": 52.4,
+                "name": "Hart"
+            },
+            {
+                "y": 28.7,
+                "x": 58.19,
+                "name": "Liverpool"
+            },
+            {
+                "y": 21.1,
+                "x": 47,
+                "name": "Suffolk Coastal"
+            },
+            {
+                "y": 16.0,
+                "x": 53.08,
+                "name": "Mole Valley"
+            },
+            {
+                "y": 26.8,
+                "x": 46.25,
+                "name": "Carmarthenshire"
+            },
+            {
+                "y": 25.8,
+                "x": 41.74,
+                "name": "Ipswich"
+            },
+            {
+                "y": 22.8,
+                "x": 45.81,
+                "name": "Babergh"
+            },
+            {
+                "y": 20.1,
+                "x": 41.59,
+                "name": "Crawley"
+            },
+            {
+                "y": 24.6,
+                "x": 42.86,
+                "name": "Pembrokeshire"
+            },
+            {
+                "y": 29.8,
+                "x": 37.1,
+                "name": "Waveney"
+            },
+            {
+                "y": 16.8,
+                "x": 54.63,
+                "name": "Harrow"
+            },
+            {
+                "y": 21.9,
+                "x": 43.06,
+                "name": "Lincoln"
+            },
+            {
+                "y": 30.0,
+                "x": 32.4,
+                "name": "Dudley"
+            },
+            {
+                "y": 28.4,
+                "x": 36.15,
+                "name": "Thanet"
+            },
+            {
+                "y": 26.6,
+                "x": 35.27,
+                "name": "Staffordshire Moorlands"
+            },
+            {
+                "y": 23.0,
+                "x": 55.82,
+                "name": "Enfield"
+            },
+            {
+                "y": 28.5,
+                "x": 32.17,
+                "name": "Bassetlaw"
+            },
+            {
+                "y": 32.6,
+                "x": 29.35,
+                "name": "East Lindsey"
+            },
+            {
+                "y": 24.9,
+                "x": 39.86,
+                "name": "Carlisle"
+            },
+            {
+                "y": 20.2,
+                "x": 61.73,
+                "name": "Bristol"
+            },
+            {
+                "y": 10.6,
+                "x": 69.29,
+                "name": "Richmond-upon-Thames"
+            },
+            {
+                "y": 20.3,
+                "x": 47.84,
+                "name": "Malvern Hills"
+            },
+            {
+                "y": 28.2,
+                "x": 31.14,
+                "name": "Cannock Chase"
+            },
+            {
+                "y": 25.0,
+                "x": 37.64,
+                "name": "Havant"
+            },
+            {
+                "y": 23.2,
+                "x": 58.05,
+                "name": "Gwynedd"
+            },
+            {
+                "y": 31.2,
+                "x": 28.61,
+                "name": "Fenland"
+            },
+            {
+                "y": 19.2,
+                "x": 45.62,
+                "name": "Sevenoaks"
+            },
+            {
+                "y": 29.1,
+                "x": 38.66,
+                "name": "Sunderland"
+            },
+            {
+                "y": 21.6,
+                "x": 40.07,
+                "name": "South Kesteven"
+            },
+            {
+                "y": 22.5,
+                "x": 43.13,
+                "name": "Shropshire"
+            },
+            {
+                "y": 17.2,
+                "x": 52.85,
+                "name": "South Hams"
+            },
+            {
+                "y": 23.5,
+                "x": 46.69,
+                "name": "Preston"
+            },
+            {
+                "y": 30.9,
+                "x": 43.16,
+                "name": "Neath Port Talbot"
+            },
+            {
+                "y": 34.7,
+                "x": 48.44,
+                "name": "Knowsley"
+            },
+            {
+                "y": 18.3,
+                "x": 45.74,
+                "name": "Runnymede"
+            },
+            {
+                "y": 31.4,
+                "x": 42.37,
+                "name": "Caerphilly"
+            },
+            {
+                "y": 22.4,
+                "x": 41.19,
+                "name": "Lichfield"
+            },
+            {
+                "y": 19.5,
+                "x": 49.08,
+                "name": "Chichester"
+            },
+            {
+                "y": 24.5,
+                "x": 41.42,
+                "name": "Forest of Dean"
+            },
+            {
+                "y": 15.2,
+                "x": 56.15,
+                "name": "Woking"
+            },
+            {
+                "y": 33.8,
+                "x": 30.64,
+                "name": "Stoke-on-Trent"
+            },
+            {
+                "y": 21.1,
+                "x": 45.89,
+                "name": "East Devon"
+            },
+            {
+                "y": 31.7,
+                "x": 32.38,
+                "name": "Kingston-upon-Hull"
+            },
+            {
+                "y": 25.1,
+                "x": 39.61,
+                "name": "Newark & Sherwood"
+            },
+            {
+                "y": 18.6,
+                "x": 47.51,
+                "name": "Wiltshire"
+            },
+            {
+                "y": 20.6,
+                "x": 52.33,
+                "name": "Stockport"
+            },
+            {
+                "y": 23.6,
+                "x": 44.45,
+                "name": "Gedling"
+            },
+            {
+                "y": 20.9,
+                "x": 49.45,
+                "name": "High Peak"
+            },
+            {
+                "y": 18.5,
+                "x": 51.1,
+                "name": "Cotswold"
+            },
+            {
+                "y": 21.5,
+                "x": 46.1,
+                "name": "Teignbridge"
+            },
+            {
+                "y": 16.3,
+                "x": 72.81,
+                "name": "Southwark"
+            },
+            {
+                "y": 17.8,
+                "x": 75.57,
+                "name": "Haringey"
+            },
+            {
+                "y": 28.0,
+                "x": 35.78,
+                "name": "Breckland"
+            },
+            {
+                "y": 25.6,
+                "x": 45.43,
+                "name": "Adur"
+            },
+            {
+                "y": 20.1,
+                "x": 45.67,
+                "name": "Slough"
+            },
+            {
+                "y": 19.2,
+                "x": 59.74,
+                "name": "Brent"
+            },
+            {
+                "y": 22.9,
+                "x": 45.63,
+                "name": "Broadland"
+            },
+            {
+                "y": 20.6,
+                "x": 48.92,
+                "name": "Lancaster"
+            },
+            {
+                "y": 20.7,
+                "x": 41.25,
+                "name": "Maidstone"
+            },
+            {
+                "y": 17.8,
+                "x": 49.43,
+                "name": "Rutland"
+            },
+            {
+                "y": 17.4,
+                "x": 49.5,
+                "name": "Aylesbury Vale"
+            },
+            {
+                "y": 26.6,
+                "x": 31.38,
+                "name": "Basildon"
+            },
+            {
+                "y": 20.9,
+                "x": 49.08,
+                "name": "East Cambridgeshire"
+            },
+            {
+                "y": 26.2,
+                "x": 33.7,
+                "name": "North Lincolnshire"
+            },
+            {
+                "y": 20.8,
+                "x": 59.1,
+                "name": "Waltham Forest"
+            },
+            {
+                "y": 14.2,
+                "x": 56.17,
+                "name": "Guildford"
+            },
+            {
+                "y": 15.5,
+                "x": 62.23,
+                "name": "Barnet"
+            },
+            {
+                "y": 34.3,
+                "x": 30.5,
+                "name": "Tendring"
+            },
+            {
+                "y": 24.7,
+                "x": 41.47,
+                "name": "Rother"
+            },
+            {
+                "y": 17.6,
+                "x": 47.55,
+                "name": "Eastleigh"
+            },
+            {
+                "y": 19.4,
+                "x": 49.16,
+                "name": "Hertsmere"
+            },
+            {
+                "y": 15.2,
+                "x": 62.94,
+                "name": "Merton"
+            },
+            {
+                "y": 26.5,
+                "x": 27.72,
+                "name": "Thurrock"
+            },
+            {
+                "y": 20.3,
+                "x": 46.8,
+                "name": "West Devon"
+            },
+            {
+                "y": 20.4,
+                "x": 48.22,
+                "name": "Bedford"
+            },
+            {
+                "y": 21.5,
+                "x": 42.38,
+                "name": "East Dorset"
+            },
+            {
+                "y": 17.5,
+                "x": 49.73,
+                "name": "Watford"
+            },
+            {
+                "y": 18.6,
+                "x": 46.28,
+                "name": "Sutton"
+            },
+            {
+                "y": 16.9,
+                "x": 50.52,
+                "name": "East Hampshire"
+            },
+            {
+                "y": 17.7,
+                "x": 69.86,
+                "name": "Lewisham"
+            },
+            {
+                "y": 28.6,
+                "x": 51.08,
+                "name": "Leicester"
+            },
+            {
+                "y": 18.8,
+                "x": 46.75,
+                "name": "Tewkesbury"
+            },
+            {
+                "y": 22.4,
+                "x": 43.38,
+                "name": "St Edmundsbury"
+            },
+            {
+                "y": 26.0,
+                "x": 38.01,
+                "name": "Scarborough"
+            },
+            {
+                "y": 23.8,
+                "x": 38.27,
+                "name": "Stockton-on-Tees"
+            },
+            {
+                "y": 15.3,
+                "x": 60.23,
+                "name": "South Cambridgeshire"
+            },
+            {
+                "y": 26.9,
+                "x": 37.22,
+                "name": "North East Derbyshire"
+            },
+            {
+                "y": 25.6,
+                "x": 46.02,
+                "name": "Conwy"
+            },
+            {
+                "y": 21.5,
+                "x": 52.07,
+                "name": "Lewes"
+            },
+            {
+                "y": 24.7,
+                "x": 36.79,
+                "name": "East Staffordshire"
+            },
+            {
+                "y": 22.0,
+                "x": 39.65,
+                "name": "South Derbyshire"
+            },
+            {
+                "y": 14.2,
+                "x": 56.39,
+                "name": "Isles of Scilly"
+            },
+            {
+                "y": 27.0,
+                "x": 44.01,
+                "name": "Newport"
+            }
+        ],
+        "name": "No qualifications"
+    },
+    {
+        "data": [
+            {
+                "y": 22.5,
+                "x": 38.96,
+                "name": "Weymouth & Portland"
+            },
+            {
+                "y": 26.2,
+                "x": 41.89,
+                "name": "Melton"
+            },
+            {
+                "y": 34.6,
+                "x": 51.06,
+                "name": "Hounslow"
+            },
+            {
+                "y": 17.6,
+                "x": 42.58,
+                "name": "Halton"
+            },
+            {
+                "y": 26.4,
+                "x": 46.66,
+                "name": "Mid Devon"
+            },
+            {
+                "y": 34.4,
+                "x": 54.37,
+                "name": "North Hertfordshire"
+            },
+            {
+                "y": 28.5,
+                "x": 43.84,
+                "name": "Solihull"
+            },
+            {
+                "y": 17.5,
+                "x": 38.86,
+                "name": "Tameside"
+            },
+            {
+                "y": 33.6,
+                "x": 51.97,
+                "name": "Wycombe"
+            },
+            {
+                "y": 22.4,
+                "x": 43.63,
+                "name": "Flintshire"
+            },
+            {
+                "y": 21.0,
+                "x": 39.96,
+                "name": "Chesterfield"
+            },
+            {
+                "y": 19.8,
+                "x": 33.12,
+                "name": "North Warwickshire"
+            },
+            {
+                "y": 30.8,
+                "x": 48.97,
+                "name": "West Dorset"
+            },
+            {
+                "y": 25.7,
+                "x": 49.01,
+                "name": "Sheffield"
+            },
+            {
+                "y": 27.2,
+                "x": 50.7,
+                "name": "Newcastle-upon-Tyne"
+            },
+            {
+                "y": 21.5,
+                "x": 42.45,
+                "name": "Durham"
+            },
+            {
+                "y": 26.4,
+                "x": 45.12,
+                "name": "Bournemouth"
+            },
+            {
+                "y": 18.9,
+                "x": 33.81,
+                "name": "Redcar & Cleveland"
+            },
+            {
+                "y": 24.9,
+                "x": 40.53,
+                "name": "Blaby"
+            },
+            {
+                "y": 24.1,
+                "x": 51.87,
+                "name": "Sefton"
+            },
+            {
+                "y": 36.9,
+                "x": 68.62,
+                "name": "Brighton & Hove"
+            },
+            {
+                "y": 25.4,
+                "x": 37.74,
+                "name": "North Kesteven"
+            },
+            {
+                "y": 22.8,
+                "x": 40.96,
+                "name": "Wrexham"
+            },
+            {
+                "y": 18.7,
+                "x": 33.39,
+                "name": "Burnley"
+            },
+            {
+                "y": 53.6,
+                "x": 75.03,
+                "name": "Wandsworth"
+            },
+            {
+                "y": 17.4,
+                "x": 32.53,
+                "name": "Tamworth"
+            },
+            {
+                "y": 28.2,
+                "x": 45.35,
+                "name": "Broxtowe"
+            },
+            {
+                "y": 28.6,
+                "x": 55.28,
+                "name": "Exeter"
+            },
+            {
+                "y": 25.1,
+                "x": 42.75,
+                "name": "South Somerset"
+            },
+            {
+                "y": 26.8,
+                "x": 46.19,
+                "name": "Charnwood"
+            },
+            {
+                "y": 18.9,
+                "x": 37.54,
+                "name": "Swale"
+            },
+            {
+                "y": 21.5,
+                "x": 40.06,
+                "name": "Plymouth"
+            },
+            {
+                "y": 33.9,
+                "x": 53.97,
+                "name": "Redbridge"
+            },
+            {
+                "y": 21.9,
+                "x": 49.16,
+                "name": "Nottingham"
+            },
+            {
+                "y": 41.0,
+                "x": 67.46,
+                "name": "Tower Hamlets"
+            },
+            {
+                "y": 33.2,
+                "x": 55.59,
+                "name": "Greenwich"
+            },
+            {
+                "y": 22.6,
+                "x": 38.05,
+                "name": "Isle of Wight"
+            },
+            {
+                "y": 28.1,
+                "x": 47.08,
+                "name": "Taunton Deane"
+            },
+            {
+                "y": 16.9,
+                "x": 32.14,
+                "name": "Walsall"
+            },
+            {
+                "y": 21.8,
+                "x": 37.75,
+                "name": "Shepway"
+            },
+            {
+                "y": 28.9,
+                "x": 45.5,
+                "name": "Wealden"
+            },
+            {
+                "y": 23.7,
+                "x": 41.62,
+                "name": "Northampton"
+            },
+            {
+                "y": 33.1,
+                "x": 50.65,
+                "name": "Bromley"
+            },
+            {
+                "y": 24.2,
+                "x": 42.78,
+                "name": "Derby"
+            },
+            {
+                "y": 31.8,
+                "x": 49.25,
+                "name": "Harborough"
+            },
+            {
+                "y": 19.2,
+                "x": 37.95,
+                "name": "South Tyneside"
+            },
+            {
+                "y": 43.9,
+                "x": 59.53,
+                "name": "Elmbridge"
+            },
+            {
+                "y": 30.3,
+                "x": 46.06,
+                "name": "Bracknell Forest"
+            },
+            {
+                "y": 50.3,
+                "x": 68.97,
+                "name": "Westminster"
+            },
+            {
+                "y": 30.5,
+                "x": 44.63,
+                "name": "Bromsgrove"
+            },
+            {
+                "y": 52.7,
+                "x": 68.69,
+                "name": "Kensington & Chelsea"
+            },
+            {
+                "y": 15.4,
+                "x": 33.28,
+                "name": "Sandwell"
+            },
+            {
+                "y": 41.0,
+                "x": 55.02,
+                "name": "Chiltern"
+            },
+            {
+                "y": 20.7,
+                "x": 38.77,
+                "name": "Erewash"
+            },
+            {
+                "y": 36.9,
+                "x": 49.3,
+                "name": "South Bucks"
+            },
+            {
+                "y": 20.9,
+                "x": 37.56,
+                "name": "Barking & Dagenham"
+            },
+            {
+                "y": 50.5,
+                "x": 74.94,
+                "name": "Camden"
+            },
+            {
+                "y": 40.0,
+                "x": 56.69,
+                "name": "Wokingham"
+            },
+            {
+                "y": 40.7,
+                "x": 58.93,
+                "name": "Winchester"
+            },
+            {
+                "y": 27.9,
+                "x": 45.76,
+                "name": "Huntingdonshire"
+            },
+            {
+                "y": 22.1,
+                "x": 36.85,
+                "name": "Wyre Forest"
+            },
+            {
+                "y": 34.8,
+                "x": 58.03,
+                "name": "Reading"
+            },
+            {
+                "y": 26.9,
+                "x": 50.31,
+                "name": "Leeds"
+            },
+            {
+                "y": 14.9,
+                "x": 35.75,
+                "name": "Corby"
+            },
+            {
+                "y": 40.1,
+                "x": 58.39,
+                "name": "Waverley"
+            },
+            {
+                "y": 29.4,
+                "x": 49.32,
+                "name": "Cheshire West & Chester"
+            },
+            {
+                "y": 19.5,
+                "x": 37.43,
+                "name": "Wolverhampton"
+            },
+            {
+                "y": 28.2,
+                "x": 43.3,
+                "name": "Rugby"
+            },
+            {
+                "y": 24.4,
+                "x": 42.67,
+                "name": "Eastbourne"
+            },
+            {
+                "y": 23.7,
+                "x": 43.82,
+                "name": "Darlington"
+            },
+            {
+                "y": 24.8,
+                "x": 39.41,
+                "name": "West Somerset"
+            },
+            {
+                "y": 25.9,
+                "x": 39.6,
+                "name": "East Riding of Yorkshire"
+            },
+            {
+                "y": 26.3,
+                "x": 46.26,
+                "name": "Powys"
+            },
+            {
+                "y": 25.0,
+                "x": 44.32,
+                "name": "Calderdale"
+            },
+            {
+                "y": 19.5,
+                "x": 36.1,
+                "name": "Wigan"
+            },
+            {
+                "y": 25.3,
+                "x": 51.7,
+                "name": "Wirral"
+            },
+            {
+                "y": 32.4,
+                "x": 58.04,
+                "name": "York"
+            },
+            {
+                "y": 19.1,
+                "x": 33.6,
+                "name": "King's Lynn & West Norfolk"
+            },
+            {
+                "y": 15.8,
+                "x": 26.41,
+                "name": "South Holland"
+            },
+            {
+                "y": 33.8,
+                "x": 57.69,
+                "name": "Trafford"
+            },
+            {
+                "y": 31.9,
+                "x": 49.32,
+                "name": "Uttlesford"
+            },
+            {
+                "y": 23.6,
+                "x": 37.42,
+                "name": "Maldon"
+            },
+            {
+                "y": 31.1,
+                "x": 45.66,
+                "name": "South Northamptonshire"
+            },
+            {
+                "y": 18.6,
+                "x": 33.99,
+                "name": "Nuneaton & Bedworth"
+            },
+            {
+                "y": 24.2,
+                "x": 46,
+                "name": "Denbighshire"
+            },
+            {
+                "y": 21.8,
+                "x": 45.77,
+                "name": "Bradford"
+            },
+            {
+                "y": 17.4,
+                "x": 32.11,
+                "name": "Rotherham"
+            },
+            {
+                "y": 18.3,
+                "x": 33.64,
+                "name": "Wakefield"
+            },
+            {
+                "y": 21.2,
+                "x": 45.12,
+                "name": "Hastings"
+            },
+            {
+                "y": 22.0,
+                "x": 37.85,
+                "name": "Dover"
+            },
+            {
+                "y": 26.0,
+                "x": 47.01,
+                "name": "Worthing"
+            },
+            {
+                "y": 15.5,
+                "x": 32.54,
+                "name": "Blackpool"
+            },
+            {
+                "y": 24.2,
+                "x": 41.24,
+                "name": "East Northamptonshire"
+            },
+            {
+                "y": 27.9,
+                "x": 51.07,
+                "name": "Mendip"
+            },
+            {
+                "y": 19.2,
+                "x": 35.03,
+                "name": "Forest Heath"
+            },
+            {
+                "y": 19.0,
+                "x": 39.38,
+                "name": "Barrow-in-Furness"
+            },
+            {
+                "y": 19.4,
+                "x": 39.93,
+                "name": "Rochdale"
+            },
+            {
+                "y": 24.1,
+                "x": 39.67,
+                "name": "Hinckley & Bosworth"
+            },
+            {
+                "y": 17.0,
+                "x": 31.04,
+                "name": "Doncaster"
+            },
+            {
+                "y": 34.0,
+                "x": 49.51,
+                "name": "Reigate & Banstead"
+            },
+            {
+                "y": 25.4,
+                "x": 44.69,
+                "name": "West Lancashire"
+            },
+            {
+                "y": 46.6,
+                "x": 78.62,
+                "name": "Lambeth"
+            },
+            {
+                "y": 28.2,
+                "x": 48.59,
+                "name": "Milton Keynes"
+            },
+            {
+                "y": 19.2,
+                "x": 33.74,
+                "name": "Broxbourne"
+            },
+            {
+                "y": 18.9,
+                "x": 33.81,
+                "name": "Hyndburn"
+            },
+            {
+                "y": 27.4,
+                "x": 46.68,
+                "name": "Eden"
+            },
+            {
+                "y": 33.4,
+                "x": 57.85,
+                "name": "Bath & North East Somerset"
+            },
+            {
+                "y": 32.1,
+                "x": 46.34,
+                "name": "Hambleton"
+            },
+            {
+                "y": 15.1,
+                "x": 30.16,
+                "name": "Ashfield"
+            },
+            {
+                "y": 23.0,
+                "x": 49.58,
+                "name": "Birmingham"
+            },
+            {
+                "y": 20.4,
+                "x": 37.58,
+                "name": "Wellingborough"
+            },
+            {
+                "y": 28.4,
+                "x": 47.83,
+                "name": "North Somerset"
+            },
+            {
+                "y": 41.8,
+                "x": 78.48,
+                "name": "Hackney"
+            },
+            {
+                "y": 27.4,
+                "x": 45.73,
+                "name": "Warrington"
+            },
+            {
+                "y": 28.9,
+                "x": 60.36,
+                "name": "Manchester"
+            },
+            {
+                "y": 24.6,
+                "x": 40.57,
+                "name": "Ashford"
+            },
+            {
+                "y": 26.4,
+                "x": 41.44,
+                "name": "South Ribble"
+            },
+            {
+                "y": 17.6,
+                "x": 30.43,
+                "name": "Hartlepool"
+            },
+            {
+                "y": 19.8,
+                "x": 43.66,
+                "name": "Blackburn with Darwen"
+            },
+            {
+                "y": 24.6,
+                "x": 46.2,
+                "name": "Southampton"
+            },
+            {
+                "y": 25.3,
+                "x": 46.6,
+                "name": "North Tyneside"
+            },
+            {
+                "y": 38.4,
+                "x": 53.9,
+                "name": "Windsor & Maidenhead Royal"
+            },
+            {
+                "y": 20.9,
+                "x": 41.98,
+                "name": "St Helens"
+            },
+            {
+                "y": 42.6,
+                "x": 70.27,
+                "name": "Oxford"
+            },
+            {
+                "y": 23.0,
+                "x": 44.4,
+                "name": "Coventry"
+            },
+            {
+                "y": 26.4,
+                "x": 44.77,
+                "name": "Mid Suffolk"
+            },
+            {
+                "y": 37.2,
+                "x": 56.7,
+                "name": "Vale of White Horse"
+            },
+            {
+                "y": 21.7,
+                "x": 39.17,
+                "name": "Torridge"
+            },
+            {
+                "y": 36.7,
+                "x": 54.98,
+                "name": "South Oxfordshire"
+            },
+            {
+                "y": 27.0,
+                "x": 43.22,
+                "name": "Richmondshire"
+            },
+            {
+                "y": 20.0,
+                "x": 34.62,
+                "name": "Gravesham"
+            },
+            {
+                "y": 27.1,
+                "x": 44.3,
+                "name": "Tonbridge & Malling"
+            },
+            {
+                "y": 22.8,
+                "x": 37.52,
+                "name": "Arun"
+            },
+            {
+                "y": 22.3,
+                "x": 43.45,
+                "name": "Luton"
+            },
+            {
+                "y": 22.3,
+                "x": 43.19,
+                "name": "Salford"
+            },
+            {
+                "y": 23.7,
+                "x": 41.92,
+                "name": "Portsmouth"
+            },
+            {
+                "y": 47.3,
+                "x": 73.85,
+                "name": "Cambridge"
+            },
+            {
+                "y": 27.0,
+                "x": 48.31,
+                "name": "South Norfolk"
+            },
+            {
+                "y": 29.8,
+                "x": 50.73,
+                "name": "Vale of Glamorgan"
+            },
+            {
+                "y": 21.0,
+                "x": 38,
+                "name": "Copeland"
+            },
+            {
+                "y": 21.8,
+                "x": 37.05,
+                "name": "Bexley"
+            },
+            {
+                "y": 27.7,
+                "x": 46.32,
+                "name": "Worcester"
+            },
+            {
+                "y": 19.4,
+                "x": 30.34,
+                "name": "Havering"
+            },
+            {
+                "y": 21.8,
+                "x": 41.92,
+                "name": "Southend-on-Sea"
+            },
+            {
+                "y": 22.1,
+                "x": 38.8,
+                "name": "Sedgemoor"
+            },
+            {
+                "y": 39.0,
+                "x": 57.55,
+                "name": "Rushcliffe"
+            },
+            {
+                "y": 25.1,
+                "x": 39.32,
+                "name": "Rossendale"
+            },
+            {
+                "y": 19.1,
+                "x": 35.92,
+                "name": "Medway"
+            },
+            {
+                "y": 26.9,
+                "x": 43.6,
+                "name": "North Dorset"
+            },
+            {
+                "y": 34.0,
+                "x": 43.61,
+                "name": "Ribble Valley"
+            },
+            {
+                "y": 24.3,
+                "x": 39.3,
+                "name": "North West Leicestershire"
+            },
+            {
+                "y": 32.6,
+                "x": 51.46,
+                "name": "Horsham"
+            },
+            {
+                "y": 20.2,
+                "x": 39.11,
+                "name": "Peterborough"
+            },
+            {
+                "y": 49.6,
+                "x": 70.02,
+                "name": "Hammersmith & Fulham"
+            },
+            {
+                "y": 25.1,
+                "x": 41.17,
+                "name": "Christchurch"
+            },
+            {
+                "y": 29.8,
+                "x": 43.04,
+                "name": "Fylde"
+            },
+            {
+                "y": 20.3,
+                "x": 40.22,
+                "name": "Torfaen"
+            },
+            {
+                "y": 17.4,
+                "x": 31.69,
+                "name": "Barnsley"
+            },
+            {
+                "y": 28.1,
+                "x": 49.69,
+                "name": "Cherwell"
+            },
+            {
+                "y": 17.6,
+                "x": 31.9,
+                "name": "Harlow"
+            },
+            {
+                "y": 30.9,
+                "x": 49.33,
+                "name": "Dacorum"
+            },
+            {
+                "y": 20.0,
+                "x": 33.39,
+                "name": "Rochford"
+            },
+            {
+                "y": 22.0,
+                "x": 35.78,
+                "name": "Dartford"
+            },
+            {
+                "y": 20.9,
+                "x": 36.78,
+                "name": "Telford & Wrekin"
+            },
+            {
+                "y": 33.4,
+                "x": 52.86,
+                "name": "South Lakeland"
+            },
+            {
+                "y": 33.0,
+                "x": 47.16,
+                "name": "Tandridge"
+            },
+            {
+                "y": 33.4,
+                "x": 48.44,
+                "name": "Stratford-on-Avon"
+            },
+            {
+                "y": 27.3,
+                "x": 48.96,
+                "name": "Canterbury"
+            },
+            {
+                "y": 29.8,
+                "x": 44.9,
+                "name": "Fareham"
+            },
+            {
+                "y": 26.1,
+                "x": 40.83,
+                "name": "Selby"
+            },
+            {
+                "y": 34.1,
+                "x": 50.97,
+                "name": "Harrogate"
+            },
+            {
+                "y": 27.3,
+                "x": 44.74,
+                "name": "Ryedale"
+            },
+            {
+                "y": 32.9,
+                "x": 53.66,
+                "name": "West Oxfordshire"
+            },
+            {
+                "y": 18.6,
+                "x": 39.14,
+                "name": "Oldham"
+            },
+            {
+                "y": 22.2,
+                "x": 38.87,
+                "name": "Braintree"
+            },
+            {
+                "y": 27.8,
+                "x": 43.17,
+                "name": "Chorley"
+            },
+            {
+                "y": 26.1,
+                "x": 49.06,
+                "name": "Anglesey"
+            },
+            {
+                "y": 27.2,
+                "x": 46.4,
+                "name": "Colchester"
+            },
+            {
+                "y": 68.4,
+                "x": 75.29,
+                "name": "City of London"
+            },
+            {
+                "y": 34.6,
+                "x": 54.89,
+                "name": "Tunbridge Wells"
+            },
+            {
+                "y": 17.8,
+                "x": 43.56,
+                "name": "Merthyr Tydfil"
+            },
+            {
+                "y": 37.0,
+                "x": 60.4,
+                "name": "Ealing"
+            },
+            {
+                "y": 22.8,
+                "x": 41.35,
+                "name": "Allerdale"
+            },
+            {
+                "y": 22.7,
+                "x": 45.34,
+                "name": "Swindon"
+            },
+            {
+                "y": 20.6,
+                "x": 36.84,
+                "name": "Torbay"
+            },
+            {
+                "y": 15.2,
+                "x": 37.97,
+                "name": "Blaenau Gwent"
+            },
+            {
+                "y": 30.5,
+                "x": 48.06,
+                "name": "Test Valley"
+            },
+            {
+                "y": 28.8,
+                "x": 47.17,
+                "name": "Chelmsford"
+            },
+            {
+                "y": 28.7,
+                "x": 42.14,
+                "name": "Wychavon"
+            },
+            {
+                "y": 18.5,
+                "x": 34.52,
+                "name": "Middlesbrough"
+            },
+            {
+                "y": 32.1,
+                "x": 51.78,
+                "name": "West Berkshire"
+            },
+            {
+                "y": 25.3,
+                "x": 38.18,
+                "name": "West Lindsey"
+            },
+            {
+                "y": 48.1,
+                "x": 75.22,
+                "name": "Islington"
+            },
+            {
+                "y": 32.0,
+                "x": 48.82,
+                "name": "Cheshire East"
+            },
+            {
+                "y": 25.5,
+                "x": 41.83,
+                "name": "Poole"
+            },
+            {
+                "y": 23.3,
+                "x": 39.01,
+                "name": "Kettering"
+            },
+            {
+                "y": 32.3,
+                "x": 60.02,
+                "name": "Cardiff"
+            },
+            {
+                "y": 23.2,
+                "x": 39.72,
+                "name": "Amber Valley"
+            },
+            {
+                "y": 31.8,
+                "x": 54.29,
+                "name": "Croydon"
+            },
+            {
+                "y": 30.1,
+                "x": 52.84,
+                "name": "Newham"
+            },
+            {
+                "y": 22.6,
+                "x": 45.36,
+                "name": "Bridgend"
+            },
+            {
+                "y": 27.3,
+                "x": 43.87,
+                "name": "Central Bedfordshire"
+            },
+            {
+                "y": 16.2,
+                "x": 30.13,
+                "name": "North East Lincolnshire"
+            },
+            {
+                "y": 23.0,
+                "x": 36.23,
+                "name": "Wyre"
+            },
+            {
+                "y": 24.8,
+                "x": 45.42,
+                "name": "Oadby & Wigston"
+            },
+            {
+                "y": 14.2,
+                "x": 28.5,
+                "name": "Great Yarmouth"
+            },
+            {
+                "y": 25.1,
+                "x": 35.15,
+                "name": "South Staffordshire"
+            },
+            {
+                "y": 36.2,
+                "x": 56.17,
+                "name": "Cheltenham"
+            },
+            {
+                "y": 22.5,
+                "x": 36.96,
+                "name": "Newcastle-under-Lyme"
+            },
+            {
+                "y": 30.5,
+                "x": 48.1,
+                "name": "Basingstoke & Deane"
+            },
+            {
+                "y": 15.1,
+                "x": 24.44,
+                "name": "Boston"
+            },
+            {
+                "y": 22.2,
+                "x": 41.5,
+                "name": "Gloucester"
+            },
+            {
+                "y": 25.0,
+                "x": 43.48,
+                "name": "Cornwall"
+            },
+            {
+                "y": 24.7,
+                "x": 41.79,
+                "name": "Rushmoor"
+            },
+            {
+                "y": 27.2,
+                "x": 42.24,
+                "name": "New Forest"
+            },
+            {
+                "y": 30.3,
+                "x": 44.01,
+                "name": "Stafford"
+            },
+            {
+                "y": 15.8,
+                "x": 29.17,
+                "name": "Bolsover"
+            },
+            {
+                "y": 33.6,
+                "x": 53.09,
+                "name": "Mid Sussex"
+            },
+            {
+                "y": 28.8,
+                "x": 41.4,
+                "name": "Daventry"
+            },
+            {
+                "y": 27.9,
+                "x": 54.63,
+                "name": "Ceredigion"
+            },
+            {
+                "y": 33.9,
+                "x": 48.73,
+                "name": "Three Rivers"
+            },
+            {
+                "y": 41.4,
+                "x": 61.61,
+                "name": "Kingston-upon-Thames"
+            },
+            {
+                "y": 28.0,
+                "x": 43.63,
+                "name": "Hillingdon"
+            },
+            {
+                "y": 23.9,
+                "x": 45.33,
+                "name": "Kirklees"
+            },
+            {
+                "y": 25.7,
+                "x": 40.93,
+                "name": "Purbeck"
+            },
+            {
+                "y": 26.7,
+                "x": 47.32,
+                "name": "South Gloucestershire"
+            },
+            {
+                "y": 27.5,
+                "x": 40.78,
+                "name": "Herefordshire"
+            },
+            {
+                "y": 25.7,
+                "x": 45.88,
+                "name": "Bury"
+            },
+            {
+                "y": 27.7,
+                "x": 56.24,
+                "name": "Norwich"
+            },
+            {
+                "y": 32.9,
+                "x": 54.61,
+                "name": "Stroud"
+            },
+            {
+                "y": 34.5,
+                "x": 49.02,
+                "name": "Surrey Heath"
+            },
+            {
+                "y": 30.7,
+                "x": 40.85,
+                "name": "Brentwood"
+            },
+            {
+                "y": 25.9,
+                "x": 39.7,
+                "name": "Spelthorne"
+            },
+            {
+                "y": 14.6,
+                "x": 27.3,
+                "name": "Castle Point"
+            },
+            {
+                "y": 21.5,
+                "x": 36.14,
+                "name": "Gosport"
+            },
+            {
+                "y": 38.4,
+                "x": 58.78,
+                "name": "Warwick"
+            },
+            {
+                "y": 20.7,
+                "x": 37.71,
+                "name": "Redditch"
+            },
+            {
+                "y": 22.3,
+                "x": 41.09,
+                "name": "North Norfolk"
+            },
+            {
+                "y": 31.8,
+                "x": 47.17,
+                "name": "Craven"
+            },
+            {
+                "y": 22.9,
+                "x": 42.96,
+                "name": "North Devon"
+            },
+            {
+                "y": 25.8,
+                "x": 48.49,
+                "name": "Swansea"
+            },
+            {
+                "y": 20.2,
+                "x": 36.85,
+                "name": "Pendle"
+            },
+            {
+                "y": 16.4,
+                "x": 29.14,
+                "name": "Mansfield"
+            },
+            {
+                "y": 22.2,
+                "x": 41.71,
+                "name": "Bolton"
+            },
+            {
+                "y": 33.4,
+                "x": 48.44,
+                "name": "Derbyshire Dales"
+            },
+            {
+                "y": 36.0,
+                "x": 52.08,
+                "name": "Epsom & Ewell"
+            },
+            {
+                "y": 33.1,
+                "x": 50.44,
+                "name": "Monmouthshire"
+            },
+            {
+                "y": 19.6,
+                "x": 46.3,
+                "name": "Rhondda Cynon Taf"
+            },
+            {
+                "y": 25.3,
+                "x": 37.31,
+                "name": "Epping Forest"
+            },
+            {
+                "y": 37.5,
+                "x": 52.4,
+                "name": "Hart"
+            },
+            {
+                "y": 22.4,
+                "x": 58.19,
+                "name": "Liverpool"
+            },
+            {
+                "y": 29.0,
+                "x": 47,
+                "name": "Suffolk Coastal"
+            },
+            {
+                "y": 37.9,
+                "x": 53.08,
+                "name": "Mole Valley"
+            },
+            {
+                "y": 23.9,
+                "x": 46.25,
+                "name": "Carmarthenshire"
+            },
+            {
+                "y": 20.6,
+                "x": 41.74,
+                "name": "Ipswich"
+            },
+            {
+                "y": 25.8,
+                "x": 45.81,
+                "name": "Babergh"
+            },
+            {
+                "y": 21.5,
+                "x": 41.59,
+                "name": "Crawley"
+            },
+            {
+                "y": 24.8,
+                "x": 42.86,
+                "name": "Pembrokeshire"
+            },
+            {
+                "y": 17.9,
+                "x": 37.1,
+                "name": "Waveney"
+            },
+            {
+                "y": 36.8,
+                "x": 54.63,
+                "name": "Harrow"
+            },
+            {
+                "y": 21.3,
+                "x": 43.06,
+                "name": "Lincoln"
+            },
+            {
+                "y": 19.2,
+                "x": 32.4,
+                "name": "Dudley"
+            },
+            {
+                "y": 19.6,
+                "x": 36.15,
+                "name": "Thanet"
+            },
+            {
+                "y": 23.7,
+                "x": 35.27,
+                "name": "Staffordshire Moorlands"
+            },
+            {
+                "y": 28.7,
+                "x": 55.82,
+                "name": "Enfield"
+            },
+            {
+                "y": 20.2,
+                "x": 32.17,
+                "name": "Bassetlaw"
+            },
+            {
+                "y": 18.1,
+                "x": 29.35,
+                "name": "East Lindsey"
+            },
+            {
+                "y": 22.2,
+                "x": 39.86,
+                "name": "Carlisle"
+            },
+            {
+                "y": 32.8,
+                "x": 61.73,
+                "name": "Bristol"
+            },
+            {
+                "y": 53.0,
+                "x": 69.29,
+                "name": "Richmond-upon-Thames"
+            },
+            {
+                "y": 33.9,
+                "x": 47.84,
+                "name": "Malvern Hills"
+            },
+            {
+                "y": 17.2,
+                "x": 31.14,
+                "name": "Cannock Chase"
+            },
+            {
+                "y": 22.3,
+                "x": 37.64,
+                "name": "Havant"
+            },
+            {
+                "y": 26.4,
+                "x": 58.05,
+                "name": "Gwynedd"
+            },
+            {
+                "y": 14.9,
+                "x": 28.61,
+                "name": "Fenland"
+            },
+            {
+                "y": 32.0,
+                "x": 45.62,
+                "name": "Sevenoaks"
+            },
+            {
+                "y": 18.2,
+                "x": 38.66,
+                "name": "Sunderland"
+            },
+            {
+                "y": 25.6,
+                "x": 40.07,
+                "name": "South Kesteven"
+            },
+            {
+                "y": 27.5,
+                "x": 43.13,
+                "name": "Shropshire"
+            },
+            {
+                "y": 34.3,
+                "x": 52.85,
+                "name": "South Hams"
+            },
+            {
+                "y": 24.6,
+                "x": 46.69,
+                "name": "Preston"
+            },
+            {
+                "y": 18.8,
+                "x": 43.16,
+                "name": "Neath Port Talbot"
+            },
+            {
+                "y": 15.5,
+                "x": 48.44,
+                "name": "Knowsley"
+            },
+            {
+                "y": 29.9,
+                "x": 45.74,
+                "name": "Runnymede"
+            },
+            {
+                "y": 18.7,
+                "x": 42.37,
+                "name": "Caerphilly"
+            },
+            {
+                "y": 28.4,
+                "x": 41.19,
+                "name": "Lichfield"
+            },
+            {
+                "y": 32.4,
+                "x": 49.08,
+                "name": "Chichester"
+            },
+            {
+                "y": 24.0,
+                "x": 41.42,
+                "name": "Forest of Dean"
+            },
+            {
+                "y": 38.4,
+                "x": 56.15,
+                "name": "Woking"
+            },
+            {
+                "y": 15.5,
+                "x": 30.64,
+                "name": "Stoke-on-Trent"
+            },
+            {
+                "y": 29.1,
+                "x": 45.89,
+                "name": "East Devon"
+            },
+            {
+                "y": 15.2,
+                "x": 32.38,
+                "name": "Kingston-upon-Hull"
+            },
+            {
+                "y": 24.2,
+                "x": 39.61,
+                "name": "Newark & Sherwood"
+            },
+            {
+                "y": 29.5,
+                "x": 47.51,
+                "name": "Wiltshire"
+            },
+            {
+                "y": 29.8,
+                "x": 52.33,
+                "name": "Stockport"
+            },
+            {
+                "y": 25.3,
+                "x": 44.45,
+                "name": "Gedling"
+            },
+            {
+                "y": 29.4,
+                "x": 49.45,
+                "name": "High Peak"
+            },
+            {
+                "y": 33.7,
+                "x": 51.1,
+                "name": "Cotswold"
+            },
+            {
+                "y": 28.0,
+                "x": 46.1,
+                "name": "Teignbridge"
+            },
+            {
+                "y": 43.1,
+                "x": 72.81,
+                "name": "Southwark"
+            },
+            {
+                "y": 40.8,
+                "x": 75.57,
+                "name": "Haringey"
+            },
+            {
+                "y": 18.6,
+                "x": 35.78,
+                "name": "Breckland"
+            },
+            {
+                "y": 22.0,
+                "x": 45.43,
+                "name": "Adur"
+            },
+            {
+                "y": 25.8,
+                "x": 45.67,
+                "name": "Slough"
+            },
+            {
+                "y": 33.3,
+                "x": 59.74,
+                "name": "Brent"
+            },
+            {
+                "y": 23.2,
+                "x": 45.63,
+                "name": "Broadland"
+            },
+            {
+                "y": 27.2,
+                "x": 48.92,
+                "name": "Lancaster"
+            },
+            {
+                "y": 25.6,
+                "x": 41.25,
+                "name": "Maidstone"
+            },
+            {
+                "y": 32.9,
+                "x": 49.43,
+                "name": "Rutland"
+            },
+            {
+                "y": 32.0,
+                "x": 49.5,
+                "name": "Aylesbury Vale"
+            },
+            {
+                "y": 18.6,
+                "x": 31.38,
+                "name": "Basildon"
+            },
+            {
+                "y": 29.0,
+                "x": 49.08,
+                "name": "East Cambridgeshire"
+            },
+            {
+                "y": 19.5,
+                "x": 33.7,
+                "name": "North Lincolnshire"
+            },
+            {
+                "y": 30.0,
+                "x": 59.1,
+                "name": "Waltham Forest"
+            },
+            {
+                "y": 39.5,
+                "x": 56.17,
+                "name": "Guildford"
+            },
+            {
+                "y": 40.3,
+                "x": 62.23,
+                "name": "Barnet"
+            },
+            {
+                "y": 15.9,
+                "x": 30.5,
+                "name": "Tendring"
+            },
+            {
+                "y": 25.5,
+                "x": 41.47,
+                "name": "Rother"
+            },
+            {
+                "y": 27.9,
+                "x": 47.55,
+                "name": "Eastleigh"
+            },
+            {
+                "y": 30.8,
+                "x": 49.16,
+                "name": "Hertsmere"
+            },
+            {
+                "y": 41.1,
+                "x": 62.94,
+                "name": "Merton"
+            },
+            {
+                "y": 17.4,
+                "x": 27.72,
+                "name": "Thurrock"
+            },
+            {
+                "y": 30.0,
+                "x": 46.8,
+                "name": "West Devon"
+            },
+            {
+                "y": 28.1,
+                "x": 48.22,
+                "name": "Bedford"
+            },
+            {
+                "y": 27.7,
+                "x": 42.38,
+                "name": "East Dorset"
+            },
+            {
+                "y": 32.2,
+                "x": 49.73,
+                "name": "Watford"
+            },
+            {
+                "y": 30.1,
+                "x": 46.28,
+                "name": "Sutton"
+            },
+            {
+                "y": 33.9,
+                "x": 50.52,
+                "name": "East Hampshire"
+            },
+            {
+                "y": 38.0,
+                "x": 69.86,
+                "name": "Lewisham"
+            },
+            {
+                "y": 21.2,
+                "x": 51.08,
+                "name": "Leicester"
+            },
+            {
+                "y": 30.2,
+                "x": 46.75,
+                "name": "Tewkesbury"
+            },
+            {
+                "y": 24.6,
+                "x": 43.38,
+                "name": "St Edmundsbury"
+            },
+            {
+                "y": 22.7,
+                "x": 38.01,
+                "name": "Scarborough"
+            },
+            {
+                "y": 22.8,
+                "x": 38.27,
+                "name": "Stockton-on-Tees"
+            },
+            {
+                "y": 40.1,
+                "x": 60.23,
+                "name": "South Cambridgeshire"
+            },
+            {
+                "y": 22.2,
+                "x": 37.22,
+                "name": "North East Derbyshire"
+            },
+            {
+                "y": 25.5,
+                "x": 46.02,
+                "name": "Conwy"
+            },
+            {
+                "y": 29.4,
+                "x": 52.07,
+                "name": "Lewes"
+            },
+            {
+                "y": 23.4,
+                "x": 36.79,
+                "name": "East Staffordshire"
+            },
+            {
+                "y": 26.0,
+                "x": 39.65,
+                "name": "South Derbyshire"
+            },
+            {
+                "y": 33.0,
+                "x": 56.39,
+                "name": "Isles of Scilly"
+            },
+            {
+                "y": 23.4,
+                "x": 44.01,
+                "name": "Newport"
+            }
+        ],
+        "name": "Highest level of qualification: Level 4 qualifications and above"
+    }
+]
