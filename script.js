@@ -2,6 +2,9 @@ $(function () {
 
   $.getJSON( "series.json", function( series ) {
 
+    series[0].color = '#688FE2'
+    series[0].color = '#EB6E7B'
+
     $('#container').highcharts({
       chart: {
         type: 'scatter',
